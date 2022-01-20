@@ -1,11 +1,15 @@
+<h1>Hello, World!</h1>
+
+<h3>My name is Salvatore Logozzo</h3>
+<p>I am a software engineering student based in Toronto, Ontario. I absolutely love computers and have a passion for anything related to them. I approach every day with the drive to innovate and contribute to society through simplifying daily tasks and solving pressing issues within the technological space through the utlization of my programming knowledge.</p>
+<p>- 👀 I’m interested in Basketball, Soccer, TV Shows & Movies, Video Games, and of course anything programming-related <br/>
+- 📈 I'm also interested in Finance and Economics, and how to use programming to improve them. <br/>
+- 💾 I’m looking to collaborate on open source projects, as well as work on my own projects</p>
+
 ![Salvatore's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsaso&show_icons=true&theme=great-gatsby)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=bigsaso&theme=great-gatsby)](https://github.com/bigsaso)
 
 - 👋 Hi, I’m Salvatore Logozzo
-- 👀 I’m interested in Basketball, Soccer, TV Shows & Movies, Video Games, and of course anything programming-related
-- 📈 I'm also interested in Finance and Economics, and how to use programming to improve them.
-- 📚 I’m currently studying Software Engineering
-- 💾 I’m looking to collaborate on open source projects, as well as work on my own projects
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/salvatore-logozzo-b318a71b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BslOGELEARju97H8yDXmLjA%3D%3D
 
 <!---
