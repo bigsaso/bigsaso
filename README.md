@@ -1,7 +1,7 @@
 <h1>Hello, World!</h1>
 
 <h3>My name is Salvatore Logozzo</h3>
-<p>Let's connect on <a href='https://www.linkedin.com/in/salvatore-logozzo-b318a71b3/'>LinkedIn</a></p>
+<p>Let's connect on <a href='https://www.linkedin.com/in/salvatore-logozzo-b318a71b3/' target='_blank'>LinkedIn</a></p>
 <p>I am a software engineering student based in Toronto, Ontario. I absolutely love computers and have a passion for anything related to them. I approach every day with the drive to innovate and contribute to society through simplifying daily tasks and solving pressing issues within the technological space through the utlization of my programming knowledge.</p>
 
 ![Salvatore's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsaso&show_icons=true&theme=great-gatsby)
