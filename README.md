@@ -1,5 +1,5 @@
-![Salvatore's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsaso&show_icons=true&theme=radical)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=bigsaso&theme=radical)](https://github.com/bigsaso)
+![Salvatore's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsaso&show_icons=true&theme=great-gatsby)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=bigsaso&theme=great-gatsby)](https://github.com/bigsaso)
 
 - 👋 Hi, I’m Salvatore Logozzo
 - 👀 I’m interested in Basketball, Soccer, TV Shows & Movies, Video Games, and of course anything programming-related
