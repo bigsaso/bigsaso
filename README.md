@@ -14,7 +14,7 @@
 <h1>Experience</h1>
 
 ### Programming <br/>
-<a><img src="/sites/all/themes/programiz/assets/c.svg" alt="c" width="40" height="40"></a>
+<a><img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="C Programming Language" width="40" height="40"></a>
 <a> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="firebase" width="40" height="40"/> </a>
 
 ### Web Development
