@@ -14,7 +14,7 @@
 <h1>Experience</h1>
 
 ### Programming <br/>
-<a><img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="C Programming Language" width="40" height="40"></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"></a>
 <a><img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="Java" width="40" height="40"></a>
 <a> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="firebase" width="40" height="40"/> </a>
 
